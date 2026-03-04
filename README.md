@@ -1,2 +1,2 @@
-# Advanced_Cryptography
-Advanced Cryptography assignments and implementations, including encryption algorithms, cryptographic protocols, and security analysis. Developed as part of my ICT coursework at Mawlana Bhashani Science and Technology University (MBSTU).
+# Advanced Cryptography
+This repository contains my Advanced Cryptography course assignment. It includes theoretical concepts, mathematical problems, and practical implementations of different cryptographic algorithms.
